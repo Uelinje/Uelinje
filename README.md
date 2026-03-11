@@ -1,8 +1,8 @@
-# Ujwal | Industrial Process Analytics & Risk Modeling
+# Ujwal | Industrial Analytics & Decision Modeling
 
-Process Engineer transitioning into corporate analytics and data science roles
-with specialization in manufacturing stability, risk quantification, and
-interpretable modeling for industrial systems.
+Process Engineer transitioning into **analytics, consulting, and data science roles** with specialization in **industrial systems, profitability analytics, and interpretable statistical modeling**.
+
+I focus on using **data analysis, statistical modeling, and simulation** to identify operational inefficiencies, quantify risk, and support business decision-making.
 
 ---
 
